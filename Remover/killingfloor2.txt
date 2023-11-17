@@ -1,0 +1,5 @@
+:exe:Binaries\Win64\KFGame.exe:
+KFGame\Movies\LogoGA.bik
+KFGame\Movies\LogoHardsuit.bik
+KFGame\Movies\LogoTripwire.bik
+KFGame\Movies\LogoUE3.bik
