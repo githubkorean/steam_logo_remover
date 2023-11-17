@@ -1,0 +1,6 @@
+﻿:exe:Binaries\Win64\BorderlandsGOTY.exe:
+WillowGame\Movies\2K_logo.bk2
+WillowGame\Movies\bsg_logo.bk2
+WillowGame\Movies\Gearbox_logo.bk2
+WillowGame\Movies\Gearbox_logo_720p_v1.0.bk2
+WillowGame\Movies\NVidia.bk2
