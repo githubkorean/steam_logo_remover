@@ -1,0 +1,8 @@
+:exe:System\T3Main.exe:
+Content\T3\VideoTextures\nvidia_engl_none_30.bik
+Content\T3\VideoTextures\copyright_engl_none_30.bik
+Content\T3\VideoTextures\eax_engl_none_30.bik
+Content\T3\VideoTextures\Eidos-Logo_engl_none_30.bik
+Content\T3\VideoTextures\Ionstorm-Logo_engl_none_30.bik
+Content\T3\VideoTextures\keeper_intro_engl_none_30.bik
+Content\T3\VideoTextures\FileList.txt
