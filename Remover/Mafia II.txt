@@ -1,0 +1,4 @@
+:exe:pc\mafia2.exe:
+pc\sds\video\Logos.bik
+pc\sds\video\Logos.wmv
+pc\sds\video\NVidia_logo.bik
