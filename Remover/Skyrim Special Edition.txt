@@ -1,0 +1,2 @@
+:exe:SkyrimSE.exe:
+Data\Video\BGS_Logo.bik
