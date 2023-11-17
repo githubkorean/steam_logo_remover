@@ -1,0 +1,9 @@
+:exe:Binaries\Win32\BorderlandsPreSequel.exe
+WillowGame\Movies\2K_Australia_logo.bik
+WillowGame\Movies\2K_Australia_logo_4K.bik
+WillowGame\Movies\2K_logo.bik
+WillowGame\Movies\2K_logo_4K.bik
+WillowGame\Movies\Gearbox_logo.bik
+WillowGame\Movies\Gearbox_logo_4K.bik
+WillowGame\Movies\NVidia.bik
+WillowGame\Movies\NVidia_4K.bik
