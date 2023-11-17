@@ -1,0 +1,2 @@
+:exe:pc\Mafia II Definitive Edition.exe:
+pc\sds\video\Logos.bik
