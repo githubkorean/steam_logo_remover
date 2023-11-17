@@ -1,0 +1,10 @@
+﻿:exe:rf4_launcher.exe:
+build\pc\cache\legal_hd-demo.bik
+build\pc\cache\legal_hd.bik
+build\pc\cache\legal_hd_no_esrb.bik
+build\pc\cache\legal_hd_PS3-demo.bik
+build\pc\cache\legal_hd_PS3.bik
+build\pc\cache\legal_hd_PS3_no_esrb.bik
+build\pc\cache\logo_SPIKE.bik
+build\pc\cache\logo_SyfyGAMES.bik
+build\pc\cache\logo_THQ-V-RFA.bik
