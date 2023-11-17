@@ -1,0 +1,17 @@
+:exe:Binaries\Win32\DMC-DevilMayCry.exe:
+DevilGame\Movies\AMDLogo.bik
+DevilGame\Movies\Capcom.bik
+DevilGame\Movies\ESRB.bik
+DevilGame\Movies\Ninjatheory.bik
+DevilGame\Movies\Piracy.bik
+DevilGame\Movies\Save_360_RUS.bik
+DevilGame\Movies\Save_360.bik
+DevilGame\Movies\Save_360_DEU.bik
+DevilGame\Movies\Save_360_DUT.bik
+DevilGame\Movies\Save_360_ESN.bik
+DevilGame\Movies\Save_360_FRA.bik
+DevilGame\Movies\Save_360_ITA.bik
+DevilGame\Movies\Save_360_POL.bik
+DevilGame\Movies\Save_360_POR.bik
+DevilGame\Movies\Save_360_PTB.bik
+DevilGame\Movies\UE3_logo.bik
