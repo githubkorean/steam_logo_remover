@@ -1,0 +1,3 @@
+:exe:Shipping\DCApp.exe:
+Data\Localization\Korean\Video\Splash_Legal_Lines.bik
+Data\Localization\Korean\Video\Splash_Logo_Larian.bik
