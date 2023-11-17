@@ -1,0 +1,8 @@
+:exe:Binaries\Win32\ROGame.exe:
+ROGame\Movies\Copyright_PC.bik
+ROGame\Movies\LogoGA.bik
+ROGame\Movies\LogoOrigin.bik
+ROGame\Movies\LogoRO2.bik
+ROGame\Movies\LogoRS.bik
+ROGame\Movies\LogoTripwire.bik
+ROGame\Movies\LogoUE3.bik
