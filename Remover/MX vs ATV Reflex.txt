@@ -1,0 +1,5 @@
+﻿:exe:MXReflex.exe:
+Videos\Attract.bik
+Videos\DHLogo.bik
+Videos\Nordic_Logo_wSound.bik
+Videos\Rainbow_Logo_wSound.bik
