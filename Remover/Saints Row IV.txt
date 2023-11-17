@@ -1,5 +1,5 @@
-:download:Download/Blank.bik
-:exe:sr_hv.exe
+:download:Download/Blank.bik:
+:exe:sr_hv.exe:
 videos\HVS_Dance_Logo_360_720.bik
 videos\logo_deep_silver.bik
 videos\logo_volition.bik
