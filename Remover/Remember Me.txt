@@ -1,0 +1,8 @@
+:exe:Binaries\Win32\RememberMe.exe:
+ExampleGame\Movies\BIK_Boot_Capcom.bik
+ExampleGame\Movies\BIK_Boot_Legal.bik
+ExampleGame\Movies\BIK_Boot_Legal_DD_SCEA.bik
+ExampleGame\Movies\BIK_Boot_NVIDIA.bik
+ExampleGame\Movies\BIK_Legal.bik
+ExampleGame\Movies\StartUpMovie.bik
+ExampleGame\Movies\TX_Mov_E3Intro.bik
