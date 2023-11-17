@@ -1,5 +1,0 @@
-:exe:OakGame\Binaries\Win64\Borderlands3.exe:
-OakGame\Content\Movies\2KLOGO.mp4
-OakGame\Content\Movies\AMDLOGO.mp4
-OakGame\Content\Movies\GBXLOGO.mp4
-OakGame\AdditionalContent\Dandelion\Movies\Mini_Marcus_Intro.mp4
