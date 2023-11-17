@@ -1,0 +1,7 @@
+:Binaries\Dishonored.exe:
+DishonoredGame\Movies\Legal.bik
+DishonoredGame\Movies\LogoArkane.bik
+DishonoredGame\Movies\LogoBethesda.bik
+DishonoredGame\Movies\UE3_logo.bik
+DishonoredGame\Movies\ZenimaxLegal.bik
+DishonoredGame\Movies\ZenimaxLegalFR.bik
