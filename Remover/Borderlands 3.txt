@@ -1,6 +1,5 @@
-﻿:exe:OakGame\Binaries\Win64\Borderlands3.exe:
-:download:Download/Black_266ms.bik:
-videos\HVS_Dance_Logo_360_720.bik
-videos\logo_deep_silver.bik
-videos\logo_volition.bik
-videos\spikechunlogo1.bik
+:exe:OakGame\Binaries\Win64\Borderlands3.exe:
+OakGame\Content\Movies\2KLOGO.mp4
+OakGame\Content\Movies\AMDLOGO.mp4
+OakGame\Content\Movies\GBXLOGO.mp4
+OakGame\AdditionalContent\Dandelion\Movies\Mini_Marcus_Intro.mp4
