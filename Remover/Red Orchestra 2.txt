@@ -1,4 +1,4 @@
-:exe:Binaries\ROGame.exe:
+:exe:Binaries\Win32\ROGame.exe:
 ROGame\Movies\Copyright_PC.bik
 ROGame\Movies\LogoGA.bik
 ROGame\Movies\LogoOrigin.bik
