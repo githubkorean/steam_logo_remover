@@ -1,0 +1,6 @@
+:exe:Binaries\ShippingPC-BmGame.exe:
+BmGame\Movies\baa_logo_run_v5_h264.bik
+BmGame\Movies\Legal.bik
+BmGame\Movies\Legalus.bik
+BmGame\Movies\nvidia.bik
+BmGame\Movies\utlogo.bik
