@@ -1,0 +1,7 @@
+﻿:exe:HitmanContracts.exe:
+Movies\Copyrigh.bik
+Movies\Eidos.bik
+Movies\Intro.bik
+Movies\Io_logo.bik
+Movies\JesperKy.bik
+Movies\nVidia.bik
