@@ -1,0 +1,3 @@
+﻿:Binaries\Cypress2Game\Binaries\Win64\NewTales.exe:
+Cypress2Game\Content\Movies\2KLOGO.bk2
+Cypress2Game\Content\Movies\GBXLOGO.bk2
