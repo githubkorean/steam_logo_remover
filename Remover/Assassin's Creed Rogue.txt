@@ -1,6 +1,7 @@
 :exe:ACC.exe:
 videos\attract2.bik
 videos\abstergo_logo.bik
+videos\acr_logo.bik
 videos\ko\warning_disclaimer.bik
 videos\en\warning_disclaimer.bik
 videos\tw\warning_disclaimer.bik
