@@ -1,0 +1,3 @@
+:exe:SaintsRowTheThird.exe:
+videos\logo_thq_and_voli_hd.bik
+videos\logo_amd_hd.bik
