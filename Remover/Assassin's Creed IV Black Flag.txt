@@ -2,6 +2,7 @@
 videos\TWIMTBP.bik
 videos\attract2.bk2
 videos\abstergo_logo.bik
+videos\ac4bf_logo.bik
 videos\br\warning_disclaimer.bik
 videos\cn\warning_disclaimer.bik
 videos\cz\warning_disclaimer.bik
