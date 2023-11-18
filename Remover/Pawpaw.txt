@@ -1,0 +1,4 @@
+:exe:Binaries\Win32\TinyTina.exe:
+WillowGame\Movies\2K_logo.bik
+WillowGame\Movies\Gearbox_logo.bik
+WillowGame\Movies\NVidia.bik
