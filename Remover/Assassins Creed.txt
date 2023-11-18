@@ -1,0 +1,4 @@
+:exe:AssassinsCreed_Dx10.exe:
+Videos\UBI_LOGO.bik
+Videos\Ubisoft_Presents.bik
+Videos\Warning_Disclaimer.bik
