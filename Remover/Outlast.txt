@@ -1,0 +1,3 @@
+:exe:Binaries\Win64\OLGame.exe:
+OLGame\Movies\DLC_whistleTitle.bik
+OLGame\Movies\IntroLogo.bik
