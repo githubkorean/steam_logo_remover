@@ -1,0 +1,14 @@
+:exe:ACRSP.exe:
+Videos\UBI_LOGO.bik
+Videos\disclaimer_esrb.bik
+Videos\de\warning_disclaimer.bik
+Videos\dn\warning_disclaimer.bik
+Videos\du\warning_disclaimer.bik
+Videos\en\warning_disclaimer.bik
+Videos\fr\warning_disclaimer.bik
+Videos\it\warning_disclaimer.bik
+Videos\nw\warning_disclaimer.bik
+Videos\pl\warning_disclaimer.bik
+Videos\pt\warning_disclaimer.bik
+Videos\sp\warning_disclaimer.bik
+Videos\sw\warning_disclaimer.bik
