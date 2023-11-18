@@ -1,0 +1,3 @@
+:exe:Rage.exe:
+RAGE\base\video\loadvideo.bik
+RAGE\base\video\loadvideo_french.bik
