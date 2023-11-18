@@ -1,0 +1,4 @@
+!exe!Bin32\FarCry.exe!
+Languages\Movies\English\Crytek.bik
+Languages\Movies\English\sandbox.bik
+Languages\Movies\English\Ubi.bik
