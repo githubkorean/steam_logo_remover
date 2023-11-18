@@ -1,6 +1,5 @@
 :exe:ACFC.exe:
 videos\abstergo_logo.bik
-videos\ac4bf_logo.bik
 videos\ubi_logo.bik
 videos\TWIMTBP.bik
 videos\tw\warning_disclaimer.bik
