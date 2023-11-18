@@ -1,0 +1,3 @@
+:exe:SR2_pc.exe:
+videos\logo_thq_hd.bik
+videos\logo_volition_hd.bik
