@@ -1,0 +1,5 @@
+:exe:Binaries\Win32\Borderlands2.exe:
+Movies\NVidia.bik
+Movies\Gearbox_logo.bik
+Movies\Attract.bik
+Movies\2K_logo.bik
