@@ -1,0 +1,6 @@
+:exe:SaintsRowGatOutOfHell.exe:
+videos\HVS_Dance_Logo_360_720.bik
+videos\logo_volition.bk2
+videos\logo_deep_silver.bk2
+videos\logo_spike.bik
+videos\HVS_Logo.bk2
