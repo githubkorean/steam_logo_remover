@@ -1,0 +1,6 @@
+:exe:System\witcher.exe:
+Data\developer.bik
+Data\title.bik
+Data\Movies\engine.bik
+Data\Movies\intro.bik
+Data\publisher.bik
