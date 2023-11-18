@@ -1,0 +1,9 @@
+:exe:Binaries\Danielle\x64\Release\Prey.exe:
+GameSDK\Videos\Bethesda_logo_anim_white.bk2
+GameSDK\Videos\ArkaneLogoAnim_Redux_1080p2997_ST-16LUFS.bk2
+GameSDK\Videos\LegalScreens_Console.bk2
+GameSDK\Videos\LegalScreens.bk2
+GameSDK\Videos\Ryzen_Bumper.bk2
+Whiplash\GameSDK\Videos\Bethesda_logo_anim_white.bk2
+Whiplash\GameSDK\Videos\ArkaneLogoAnim_Redux_1080p2997_ST-16LUFS.bk2
+Whiplash\GameSDK\Videos\LegalScreens.bk2
