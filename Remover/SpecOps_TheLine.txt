@@ -1,8 +1,8 @@
 :exe:Binaries\Win32\SpecOpsTheLine.exe:
-Movies\2KDemo_Warn.bik
-Movies\UnrealLogo.bik
-Movies\YagerLogo.bik
-Movies\Legal.bik
-Movies\legal_logo_screen.bik
-Movies\LegalScreen.bik
-Movies\2KLogo.bik
+SRGame\Movies\2KDemo_Warn.bik
+SRGame\Movies\UnrealLogo.bik
+SRGame\Movies\YagerLogo.bik
+SRGame\Movies\Legal.bik
+SRGame\Movies\legal_logo_screen.bik
+SRGame\Movies\LegalScreen.bik
+SRGame\Movies\2KLogo.bik
