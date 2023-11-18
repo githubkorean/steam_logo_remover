@@ -1,0 +1,4 @@
+:exe:JustCause.exe:
+PC\FMV\dummy.bik
+PC\FMV\AvalancheVideo.bik
+PC\FMV\EidosVideo.bik
