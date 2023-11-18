@@ -1,0 +1,7 @@
+:exe:iw4sp.exe:
+main\video\attract.bik
+main\video\atvi.bik
+main\video\default.bik
+main\video\IW_logo.bik
+main\video\legal.bik
+main\video\title.bik
