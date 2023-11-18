@@ -1,0 +1,7 @@
+:exe:AssassinsCreedIIGame.exe:
+Videos\Havok.bik
+Videos\ESRB_Warning.bik
+Videos\UBI_LOGO.bik
+Videos\en\warning_disclaimer.bik
+Videos\it\warning_disclaimer.bik
+Videos\Epilepsy_Test.bik
