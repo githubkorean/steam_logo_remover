@@ -1,0 +1,5 @@
+:exe:Binaries\Win32\AliceMadnessReturns.exe:
+AliceGame\Movies\TechLogo_Short.bik
+AliceGame\Movies\Intro_SH.bik
+AliceGame\Movies\Intro_EA.bik
+AliceGame\Movies\Intro_Nvidia.bik
