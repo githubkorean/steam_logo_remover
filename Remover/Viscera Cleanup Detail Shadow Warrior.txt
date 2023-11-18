@@ -1,0 +1,4 @@
+:exe:Binaries\Win32\UDK.exe:
+UDKGame\Movies\rslogo.bik
+UDKGame\Movies\UDKFrontEnd.udk_loading.bik
+UDKGame\Movies\UE3_logo.bik
