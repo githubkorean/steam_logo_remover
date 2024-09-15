@@ -1,0 +1,3 @@
+:exe:fcengine.exe:
+data\video\credits\ITSP_Intro_credits.wmv
+data\video\credits\MS_Logo_Short_720p_5_1.wmv
