@@ -1,0 +1,2 @@
+:exe:MCC\Binaries\Win64\MCC-Win64-Shipping.exe:
+MCC\Content\Movies\FMS_logo_microsoft_7_1_.bk2
