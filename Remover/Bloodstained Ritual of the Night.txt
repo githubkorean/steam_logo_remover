@@ -1,0 +1,4 @@
+:exe:BloodstainedRotN.exe:
+BloodstainedRotN\Content\Movies\SPLASH_MOV\BloodStained Shard Intro NEW Black BG.mp4
+BloodstainedRotN\Content\Movies\SPLASH_MOV\BloodStained Shard Intro NEW Black BG.webm
+BloodstainedRotN\Content\Movies\SPLASH_MOV\BS_Shard_Intro_Ident_V3.mp4
