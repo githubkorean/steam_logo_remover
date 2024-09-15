@@ -1,0 +1,4 @@
+:exe:AoEDE_s.exe:
+Assets\Video\FE Splash_4K.mp4
+Assets\Video\intro.mp4
+Assets\Video\Microsoft_Studios.mp4
