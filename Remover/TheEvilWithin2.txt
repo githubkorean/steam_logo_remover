@@ -1,3 +1,3 @@
-﻿:exe:TEW2.exe:
-:download:Download/Black.bk2:
+:exe:TEW2.exe:
+:download:Download/Black_1ms.bik:
 base\bink\tango_logo.bk2
