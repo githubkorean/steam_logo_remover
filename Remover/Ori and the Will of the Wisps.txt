@@ -1,0 +1,2 @@
+:exe:oriwotw.exe:
+oriwotw_Data\StreamingAssets\switchConverted\moonStudiosLogo.mp4
