@@ -1,0 +1,7 @@
+:exe:VanHelsing_x64.exe:
+Videos\ENG\neocore_logo.ogg
+Videos\ENG\neocore_logo.wmv
+Videos\ENG\nvidia.ogg
+Videos\ENG\nvidia.wmv
+Videos\ENG\VH_Logo.ogg
+Videos\ENG\VH_Logo.wmv
