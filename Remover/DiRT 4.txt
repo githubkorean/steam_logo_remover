@@ -1,0 +1,2 @@
+:exe:dirt4.exe:
+Video\studio_logo.bk2
