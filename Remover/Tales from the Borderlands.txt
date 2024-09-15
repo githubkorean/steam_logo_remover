@@ -1,0 +1,3 @@
+:exe:Borderlands.exe:
+movies\2K_logo.bk2
+movies\Gearbox_logo.bk2
