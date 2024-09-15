@@ -1,5 +1,5 @@
 :exe:Future Soldier DX11.exe:
-:download:Download/Black_100ms.bik:
+:download:Download/Black_1ms.bik:
 Video\SPL_ESRB_UBI_CLANCY.bik
 Video\SPL_Intro_Trailer.bik
 Video\SPL_RSE_Logo_fade.bik
