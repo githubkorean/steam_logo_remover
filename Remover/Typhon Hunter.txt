@@ -1,0 +1,6 @@
+:exe:Pinkeye\Binaries\Win64\TyphonHunter.exe:
+Pinkeye\Content\Movies\arkane.mp4
+Pinkeye\Content\Movies\ArkaneLogo.mp4
+Pinkeye\Content\Movies\bethesda.mp4
+Pinkeye\Content\Movies\legal.mp4
+Pinkeye\Content\Movies\unreal.mp4
