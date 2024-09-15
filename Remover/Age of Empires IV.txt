@@ -1,0 +1,4 @@
+:exe:RelicCardinal.exe:
+cardinal\movies\source\fe\4k fe videos\relic_intro_logos.webm
+cardinal\movies\source\fe\900p\relic_intro_logos.webm
+cardinal\movies\source\fe\relic_intro_logos.webm
