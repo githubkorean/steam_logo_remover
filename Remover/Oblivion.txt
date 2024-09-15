@@ -1,5 +1,7 @@
 :exe:Oblivion.exe:
 Data\Video\bethesda softworks HD720p.bik
+Data\Video\Oblivion iv logo.bik
 Data\Video\Oblivion Legal.bik
+Data\Video\OblivionIntro.bik
 Data\Video\game studios.bik
 Data\Video\2k games.bik
