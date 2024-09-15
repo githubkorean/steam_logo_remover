@@ -1,0 +1,12 @@
+:exe:TQ.exe:
+Videos\TQLegal.bik
+Videos\TQLogos.bik
+Videos\TQPiecesLogo.bik
+Videos\TQDALogo.bik
+Videos\TQUnearthedLogo.bik
+Videos\TQCinematic.bik
+Videos\TQCinematic_BR.bik
+Videos\TQCinematic_DE.bik
+Videos\TQCinematic_FR.bik
+Videos\TQCinematic_PL.bik
+Videos\TQCinematic_RU.bik
