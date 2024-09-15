@@ -1,0 +1,4 @@
+:exe:Cya\Binaries\Win64\CallOfCthulhu.exe:
+Cya\Content\Movies\splash-logos.mp4
+Cya\Content\Movies\splash-logos_PS4Jap.mp4
+Cya\Content\Movies\UE4_Logo.mp4
