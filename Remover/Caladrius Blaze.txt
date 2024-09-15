@@ -1,4 +1,4 @@
 :exe:game.exe:
-download:Download/Black_1ms.mp4:
+:download:Download/Black_1ms.mp4:
 rom\media\movie\cala_op.wmv
 rom\media\movie\h2logo.mp4
