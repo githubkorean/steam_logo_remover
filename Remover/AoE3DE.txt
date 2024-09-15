@@ -1,0 +1,6 @@
+:exe:AoE3DE_s.exe:
+Game\Movies\AOE_Microsoft.bk2
+Game\Movies\AOE_WorldsEdge.bk2
+Game\Movies\ForgottenEmpires.bk2
+Game\Movies\IntroMovie.bk2
+Game\Movies\Tantalus.bk2
