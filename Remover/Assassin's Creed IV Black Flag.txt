@@ -26,6 +26,7 @@ videos\tw\warning_disclaimer.bik
 multi\videos\ubi_logo.bik
 multi\videos\TWIMTBP.bik
 multi\videos\abstergo_logo.bik
+multi\videos\ac4bf_logo.bik
 multi\videos\tw\warning_disclaimer.bik
 multi\videos\br\warning_disclaimer.bik
 multi\videos\cz\warning_disclaimer.bik
