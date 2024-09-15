@@ -1,2 +1,2 @@
-!exe!nucleardawn.exe!
+:exe:nucleardawn.exe:
 nucleardawn\media\iw.bik
