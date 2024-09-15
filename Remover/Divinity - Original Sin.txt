@@ -1,0 +1,2 @@
+:exe:Shipping\EoCApp.exe:
+Data\Localization\English\Video\Splash_Logo_Larian.bik
