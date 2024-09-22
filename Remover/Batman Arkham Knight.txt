@@ -1,0 +1,2 @@
+:exe:Binaries\Win64\BatmanAK.exe:
+BmGame\Movies\nv_logo.usm
