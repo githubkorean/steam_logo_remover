@@ -1,0 +1,4 @@
+:exe:Binaries\Win32\BatmanAC.exe:
+BmGame\Movies\bac_logo.usm
+BmGame\Movies\bac_logo_fra.usm
+BmGame\Movies\StartupNV.swf
