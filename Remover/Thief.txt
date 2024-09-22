@@ -1,0 +1,6 @@
+:exe:Binaries2\Win64\Shipping-ThiefGame.exe:
+Movies\PC\000_Boot_AMD.usm
+Movies\PC\000_Boot_Nixxes.usm
+Movies\PC\000_Boot_Unreal.usm
+Movies\PC\000_BootLegal_PC.usm
+Movies\PC\000_Bootsequence.usm
