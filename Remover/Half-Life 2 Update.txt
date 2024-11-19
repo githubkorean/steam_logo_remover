@@ -1,2 +1,2 @@
-!exe!hl2.exe!
+:exe:hl2.exe:
 hl2\media\valve.bik
