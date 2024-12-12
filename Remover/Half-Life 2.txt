@@ -1,4 +1,4 @@
 :exe:hl2.exe:
 :download:Download/Black_1ms.avi:
 hl2\media\valve.avi
-hl2\media\valve.vik
+hl2\media\valve.bik
