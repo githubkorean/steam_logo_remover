@@ -1,0 +1,6 @@
+:exe:inZOI.exe:
+:download:Download/Black_1ms.mp4:
+BlueClient\Content\Movies\intro.mp4
+BlueClient\Content\Movies\S01_piv.mp4
+BlueClient\Content\Movies\S02_piv.mp4
+BlueClient\Content\Movies\S03_piv.mp4
