@@ -1,3 +1,5 @@
-:exe:OPP\Binaries\Win64\TOTClient-Win64-Shipping.exe:
+:exe:OPP\Binaries\Win64\TOTClient-Win64-Shipping.exe:\
+OPP\Content\Movies\MansionIntroVideo_4k.bk2
+OPP\Content\Movies\MansionIntroVideo_1080.bk2
 OPP\Content\Movies\TOT_ThirdParty.bk2
 OPP\Content\Movies\RedBarrelsLogo.bk2
