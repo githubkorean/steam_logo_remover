@@ -1,0 +1,10 @@
+:exe:F1_2015.exe:
+videos\F1_bcast.bk2
+videos\F1_Splash.bk2
+videos\F1_splash_short.bk2
+videos\f1_swipe.bk2
+videos\hardcore_season_intro.bk2
+videos\hardcore_season_intro_2015.bk2
+videos\racing_sting.bk2
+videos\season_intro.bk2
+videos\season_intro_2015.bk2

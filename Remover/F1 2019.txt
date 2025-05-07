@@ -1,0 +1,11 @@
+:exe:F1_2019.exe:
+videos\attract.bk2
+videos\cm_f1_sting.bk2
+videos\f1_sting.bk2
+videos\f1_swipe_full.bk2
+videos\f1_swipe_short.bk2
+videos\f2_intro.bk2
+videos\f2_intro.srt
+videos\f2_sting.bk2
+videos\f2_swipe_full.bk2
+videos\f2_swipe_short.bk2
