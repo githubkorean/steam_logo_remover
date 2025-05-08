@@ -1,2 +1,3 @@
-﻿:exe:AssettoCorsa.exe:
+:exe:AssettoCorsa.exe:
 launcher\themes\default\video\intro.ogv
+content\career\series100\start.ogv
