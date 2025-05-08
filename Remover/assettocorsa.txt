@@ -1,0 +1,2 @@
+﻿:exe:AssettoCorsa.exe:
+launcher\themes\default\video\intro.ogv
