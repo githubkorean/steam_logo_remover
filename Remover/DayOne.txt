@@ -1,0 +1,4 @@
+:exe:Binaries\Win32\DayOne.exe:
+Engine\UDKGame\Movies\Cine_StartGame2.bik
+Engine\UDKGame\Movies\MontagecineHD.bik
+Engine\UDKGame\Movies\UE3_logo.bik
