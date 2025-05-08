@@ -1,4 +1,7 @@
-﻿:exe:Lucius.exe:
+:exe:Lucius.exe:
 :download:Download/Blankfile:
+Data\Video\Lucius_intro.wav
 Data\Video\lucius_introvideo.ogv
 Data\Video\shiver_games.ogv
+Data\Video\shiver_games_logo.ogg
+Data\Video\shiver_games_logo.wav
