@@ -1,0 +1,9 @@
+﻿:exe:Bin64\GasGuzzlers.exe:
+Data\GasGuzzlers\Movies\Company.ogv
+Data\GasGuzzlers\Movies\Company.wav
+Data\GasGuzzlers\Movies\Game.ogv
+Data\GasGuzzlers\Movies\Game.wav
+Data\GasGuzzlers\Movies\Nvidia.ogv
+Data\GasGuzzlers\Movies\Nvidia.wav
+Data\GasGuzzlers\Movies\Publisher.ogv
+Data\GasGuzzlers\Movies\Publisher.wav
