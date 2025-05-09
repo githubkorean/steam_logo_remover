@@ -1,0 +1,11 @@
+:exe:Bin32\Crysis.exe:
+Game\Localized\Video\Intro.sfd
+Game\Localized\Video\Trailer_Crytek.sfd
+Game\Localized\Video\Trailer_CrytekC.sfd
+Game\Localized\Video\Trailer_EA.sfd
+Game\Localized\Video\Trailer_Intel.sfd
+Game\Localized\Video\Trailer_NVidia.sfd
+Game\Localized\Video\Trailer_PEGI.sfd
+Game\Localized\Video\Trailer_Rating.sfd
+Game\Localized\Video\Trailer_Rating_Full.sfd
+Game\Localized\Video\Trailer_Rating_uk.sfd
